@@ -5,7 +5,7 @@ class FakeDb {
       {
         name: 'Scottish Fold',
         price: 799,
-        image: '../../assets/img/placeholder.jpg',
+        image: '../../assets/img/phone-cover.jpg',
         description: 'The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to "fold", bending forward and down towards the front of the head, which gives the cat what is often described as an "owl-like" appearance.',
         heading1: '起源',
         heading2: '学名',
@@ -18,7 +18,7 @@ class FakeDb {
       {
         name: 'British Shorthair',
         price: 699,
-        image: '../../assets/img/002.jpg',
+        image: '../../assets/img/phone-cover.jpg',
         description: 'The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face. The most familiar colour variant is the "British Blue", with a solid grey-blue coat, orange eyes, and a medium-sized tail. The breed has also been developed in a wide range of other colours and patterns, including tabby and colourpoint.',
         heading1: '起源',
         heading2: '学名',
@@ -30,7 +30,7 @@ class FakeDb {
       {
         name: 'Siberian',
         price: 299,
-        image: '../../assets/img/003.jpg',
+        image: '../../assets/img/phone-cover.jpg',
         description: 'The Siberian is a centuries-old landrace (natural variety) of domestic cat in Russia and recently developed as a formal breed with standards promulgated the world over since the late 1980s.',
         heading1: '起源',
         heading2: '学名',
@@ -42,7 +42,7 @@ class FakeDb {
       {
         name: 'American Shorthair',
         price: 499,
-        image: '../../assets/img/004.jpg',
+        image: '../../assets/img/phone-cover.jpg',
         description: 'The American Shorthair (ASH) is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats. According to the Cat Fanciers Association, in 2012, it was the seventh most popular pedigreed cat in the United States.',
         heading1: '起源',
         heading2: '学名',
